@@ -2,10 +2,10 @@ import { useState } from "react"
 
 export default function InfoPersonPurchase () {
     const [infoPessoais , setInfoPessoais] = useState({
-        name : "Francisco Antonio",
+        name : "Wesnei Paiva",
         cpf : "123323957-33",
-        email : "francismo@gmail.com",
-        cel : "(85) 5555-555"
+        email : "wesneipaiva@gmail.com",
+        cel : "(88) 98815-5616"
     });
 
     return (
