@@ -15,7 +15,7 @@ Este projeto utiliza uma configuração mínima para o desenvolvimento com **Rea
 
 ## 📸 Visual do Projeto
 
-![Drip Store GT](link-para-imagem)
+![Drip Store GT](https://camo.githubusercontent.com/c84879b791fd615718785cc6ae1c558e1b2dda09e529d9da14eedab2b4913b32/68747470733a2f2f692e706f7374696d672e63632f525657386b54767a2f436170747572612d64652d74656c612d323032332d31302d33302d3131353133362e706e67)
 
 ## 🔧 Configuração
 
